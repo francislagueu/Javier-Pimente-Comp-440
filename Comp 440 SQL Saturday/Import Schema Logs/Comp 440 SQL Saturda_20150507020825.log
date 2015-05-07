@@ -1,0 +1,76 @@
+5/6/2015 7:08:25 PM	This log contains information about the import schema operation into project 'Comp 440 SQL Saturday' on computer 'JAVI' by user 'javier'.
+5/6/2015 7:08:25 PM	Import of database schema has started.
+5/6/2015 7:08:33 PM	Gathering database options
+5/6/2015 7:08:33 PM	Gathering users
+5/6/2015 7:08:33 PM	Gathering roles
+5/6/2015 7:08:33 PM	Gathering application roles
+5/6/2015 7:08:33 PM	Gathering role memberships
+5/6/2015 7:08:33 PM	Gathering filegroups
+5/6/2015 7:08:33 PM	Gathering full-text catalogs
+5/6/2015 7:08:33 PM	Gathering assemblies
+5/6/2015 7:08:33 PM	Gathering certificates
+5/6/2015 7:08:33 PM	Gathering asymmetric keys
+5/6/2015 7:08:33 PM	Gathering symmetric keys
+5/6/2015 7:08:33 PM	Gathering encrypted symmetric keys
+5/6/2015 7:08:33 PM	Gathering schemas
+5/6/2015 7:08:33 PM	Gathering XML schema collections
+5/6/2015 7:08:33 PM	Gathering user-defined data types
+5/6/2015 7:08:33 PM	Gathering user-defined types
+5/6/2015 7:08:33 PM	Gathering table types
+5/6/2015 7:08:33 PM	Gathering unique keys for table types
+5/6/2015 7:08:33 PM	Gathering primary keys for table types
+5/6/2015 7:08:33 PM	Gathering check constraints for table types
+5/6/2015 7:08:33 PM	Gathering default constraints for table types
+5/6/2015 7:08:33 PM	Gathering partition functions
+5/6/2015 7:08:33 PM	Gathering partition schemes
+5/6/2015 7:08:33 PM	Gathering functions
+5/6/2015 7:08:33 PM	Gathering encrypted functions
+5/6/2015 7:08:33 PM	Gathering aggregates
+5/6/2015 7:08:33 PM	Gathering procedures
+5/6/2015 7:08:33 PM	Gathering encrypted procedures
+5/6/2015 7:08:33 PM	Gathering tables
+5/6/2015 7:08:33 PM	Gathering primary keys
+5/6/2015 7:08:33 PM	Gathering unique constraints
+5/6/2015 7:08:33 PM	Gathering foreign keys
+5/6/2015 7:08:33 PM	Gathering default constraints
+5/6/2015 7:08:33 PM	Gathering check constraints
+5/6/2015 7:08:33 PM	Gathering views
+5/6/2015 7:08:33 PM	Gathering encrypted views
+5/6/2015 7:08:33 PM	Gathering indexes
+5/6/2015 7:08:33 PM	Gathering statistics
+5/6/2015 7:08:33 PM	Gathering full-text index stoplists
+5/6/2015 7:08:33 PM	Gathering search property lists
+5/6/2015 7:08:33 PM	Gathering search properties
+5/6/2015 7:08:33 PM	Gathering full-text indexes
+5/6/2015 7:08:33 PM	Gathering column store indexes
+5/6/2015 7:08:33 PM	Gathering spatial indexes
+5/6/2015 7:08:33 PM	Gathering XML indexes
+5/6/2015 7:08:33 PM	Gathering Selective XML indexes
+5/6/2015 7:08:33 PM	Gathering encrypted triggers
+5/6/2015 7:08:33 PM	Gathering triggers
+5/6/2015 7:08:33 PM	Gathering encrypted and clr ddl triggers
+5/6/2015 7:08:33 PM	Gathering ddl triggers
+5/6/2015 7:08:33 PM	Gathering synonyms
+5/6/2015 7:08:33 PM	Gathering defaults
+5/6/2015 7:08:33 PM	Gathering data constraint uddt bindings
+5/6/2015 7:08:33 PM	Gathering rules
+5/6/2015 7:08:33 PM	Gathering data constraint uddt bindings
+5/6/2015 7:08:33 PM	Gathering message types
+5/6/2015 7:08:33 PM	Gathering queues
+5/6/2015 7:08:33 PM	Gathering contracts
+5/6/2015 7:08:33 PM	Gathering services
+5/6/2015 7:08:33 PM	Gathering event notifications
+5/6/2015 7:08:33 PM	Gathering remote service bindings
+5/6/2015 7:08:33 PM	Gathering broker priorities
+5/6/2015 7:08:33 PM	Gathering signatures
+5/6/2015 7:08:33 PM	Gathering data compression options
+5/6/2015 7:08:33 PM	Gathering sequence types
+5/6/2015 7:08:33 PM	Gathering extended properties
+5/6/2015 7:08:33 PM	Gathering credentials
+5/6/2015 7:08:33 PM	Gathering logins
+5/6/2015 7:08:33 PM	Gathering server audits
+5/6/2015 7:08:34 PM	Scanning project for duplicate elements
+5/6/2015 7:08:34 PM	Finished duplicate element processing
+5/6/2015 7:08:35 PM	Finished importing database.
+5/6/2015 7:08:35 PM	A summary of the import was saved to the following location: c:\users\javier\documents\visual studio 2013\Projects\Comp 440 SQL Saturday\Comp 440 SQL Saturday\Import Schema Logs\Comp 440 SQL Saturda_20150507020825.log
+5/6/2015 7:08:35 PM	Click Finish to continue...
